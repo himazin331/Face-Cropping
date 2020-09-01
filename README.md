@@ -1,5 +1,6 @@
 # 非推奨 Deprecated
 このプログラムは欠陥が多いので、[こちら](https://github.com/himazin331/Face-Cropping-NEW)を使用することをおすすめします。
+
 This program has a lot of flaws, I recommend you take advantage of [Here](https://github.com/himazin331/Face-Cropping-NEW).
 
 # Face-Cropping
